@@ -18,15 +18,15 @@ There is also a rudimentary BlueJ plugin for it that simply outputs the messages
 
 There has been more work stemming from this including:
 
-1. improved detection performance
+### Improved Detection Performance
 
-    * (to be included)
+* To be included
 
-2. alternative detection techniques
+### Alternative Detection Techniques
 
-    * [An Analysis of Cascading Errors To Build A Detector For Non-literal Novice Programmer Errors (MA Thesis)](http://dl.dropbox.com/u/1294969/cascading_errors.pdf)
+* [An Analysis of Cascading Errors To Build A Detector For Non-literal Novice Programmer Errors (MA Thesis)](http://dl.dropbox.com/u/1294969/cascading_errors.pdf)
 
-3. a better bluej plugin interface
+### Better Bluej Plugin
 
-    * [Developing an intelligent tutor for debugging (2011)](http://curry.ateneo.net/~didith/2011DevelopingAnITS.doc)
-    * [Extension of an Intelligent Tutoring System for Debugging (2012)](http://penoy.admu.edu.ph/~alls/wp-content/uploads/2012/03/Rada-Magtalas-Martinez-PCSC-Poster.pdf)
+* [Developing an intelligent tutor for debugging (2011)](http://curry.ateneo.net/~didith/2011DevelopingAnITS.doc)
+* [Extension of an Intelligent Tutoring System for Debugging (2012)](http://penoy.admu.edu.ph/~alls/wp-content/uploads/2012/03/Rada-Magtalas-Martinez-PCSC-Poster.pdf)
